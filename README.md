@@ -4,7 +4,7 @@
 
 # Blabla
 
-# De github vers ordi
+# De GITHUB vers ordi
 
 De Ordi Vers Github
 
